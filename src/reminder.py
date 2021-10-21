@@ -13,4 +13,4 @@ class PoliteReminder(PrefixedReminder):
 
     def __iter__(self):
         return iter([self.text])
-        
+             
