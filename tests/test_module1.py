@@ -418,4 +418,4 @@ def test_task_12_register_polite_reminder():
     assert issubclass(reminder.PoliteReminder, dr.DeadlinedReminder),\
         'You should register `PoliteReminder` with `DeadlinedReminder`'
         
-        #enter cmd,activate virtual environment
+#enter cmd,activate virtual environment
